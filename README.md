@@ -1,50 +1,67 @@
-# 🚀 Johnjabez | Full-Stack Software Engineer & Creative Technologist
+# <p align="center">✨ Hi, I'm Johnjabez ✨</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=200&section=header&text=Full%20Stack%20Engineer&fontSize=70&animation=fadeIn&fontAlignY=35" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Full-Stack+Architect;Generative+AI+Specialist;Performance+Optimization+Expert;Scalable+System+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Software+Architect;Generative+AI+Expert;Next.js+%2B+TypeScript+Enthusiast;Scalable+System+Designer" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💻 About me
-I am a results-driven Software Engineer specializing in building scalable, high-performance web applications and integrating cutting-edge AI solutions. I transform complex requirements into seamless digital experiences through modern architecture and clean, maintainable code.
+### ⚡ Technical Arsenal 
 
----
-
-### 🛡️ Technical Arsenal
-
-| Category | Skills & Technologies |
-| :--- | :--- |
-| **Frontend** | React.js, Next.js (App Router), TypeScript, Tailwind CSS, Framer Motion |
-| **Backend** | Node.js, Python (FastAPI/Django), Go, PostgreSQL, Redis, GraphQL |
-| **AI & Automation** | GenAI Integration (LLMs), Image/Video Synthesis, Python Scripting |
-| **DevOps & Cloud** | AWS, Docker, CI/CD Pipelines, Vercel, Serverless Architecture |
-| **Tools** | Git/GitHub, Figma (UI/UX), Postman, Agile/Scrum |
-
----
-
-### 🌐 Digital Hub
-Explore my technical deep-dives and full project catalog.
-👉 **Official Portfolio:** [www.john.calebmedia.in](https://www.john.calebmedia.in)
-
----
-
-### 📈 Engineering Impact
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnjabezbaddi3-star&show_icons=true&theme=transparent&hide_border=true&title_color=00D1FF&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnjabezbaddi3-star&layout=compact&theme=transparent&hide_border=true&title_color=00D1FF&text_color=ffffff" width="45%" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,py,go,postgres,redis,graphql,aws,docker,vercel,figma,git" />
 </p>
 
 ---
 
-### ⚡ Featured Achievements
-* **Enterprise Scalability:** Developed and deployed microservices handling 10k+ concurrent requests.
-* **UI/UX Excellence:** Engineered highly interactive, accessible interfaces with a focus on Core Web Vitals.
-* **AI Implementation:** Built automated workflows utilizing state-of-the-art Generative AI for media production.
+### 🚀 Performance & Impact
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=johnjabezbaddi3-star&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D1FF" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnjabezbaddi3-star&layout=compact&theme=tokyonight&hide_border=true&title_color=00D1FF" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
+
+### 🛠 Professional Expertise
+
+- 🏗 **Enterprise Architecture:** Engineered microservices that manage **10k+ concurrent requests** with zero downtime.
+- 🎨 **UI/UX Perfection:** Obsessed with **Core Web Vitals**; building 100/100 Lighthouse-scored interactive interfaces.
+- 🤖 **Creative AI:** Implementing specialized **GenAI pipelines** for automated high-fidelity media production.
+- ☁ **Cloud Infrastructure:** Architecting resilient environments using **Docker, Kubernetes, and Serverless** frameworks.
+
+---
+
+### 🌐 Digital Workspace
 <p align="center">
-  <a href="mailto:johnjabezbaddi3@gmail.com">Get in Touch</a> • 
-  <a href="https://www.john.calebmedia.in">View Portfolio</a> • 
-  <a href="https://linkedin.com/in/your-profile">LinkedIn</a>
+  <a href="https://www.john.calebmedia.in">
+    <img src="https://img.shields.io/badge/Visit_Portfolio-00D1FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:johnjabezbaddi3@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-white?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Activity Glow
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnjabezbaddi3-star&theme=tokyonight&hide_border=true" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00D1FF&height=30&section=footer" width="100%"/>
 </p>
